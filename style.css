@@ -1,0 +1,21 @@
+.style1{
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(45deg, #ff007f, #7f00ff);
+    background: -webkit-linear-gradient(#05d7e6, #0ae67f);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+body {
+  background-color: #ffffff;
+  color: #333333;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #121212;
+    color: #e0e0e0;
+  }
+}
