@@ -1,7 +1,7 @@
 .style1{
     font-family: Arial, Helvetica, sans-serif;
     background: linear-gradient(45deg, #d598a3, #f1b3be);
-    background: -webkit-linear-gradient(#05d7e6, #0ae67f);
+    background: -webkit-linear-gradient(#d598a3, #f1b3be);
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
