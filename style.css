@@ -1,10 +1,10 @@
-.style1{
+.style1 {
     font-family: Arial, Helvetica, sans-serif;
-    background: linear-gradient(45deg, #ff007f, #7f00ff);
-    background: -webkit-linear-gradient(#f520c0, #b6031b);
+    background: linear-gradient(45deg, #f520c0, #b6031b);
     -webkit-background-clip: text;
     background-clip: text;
-    -webkit-text-fill-color: transparent;
+    -webkit-text-fill-color: transparent; 
+    color: transparent;
 }
 
 body {
